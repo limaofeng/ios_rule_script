@@ -44,6 +44,7 @@ payload:
   - DOMAIN-KEYWORD,openai
   - DOMAIN-KEYWORD,x.ai
   - DOMAIN-KEYWORD,ai.azure.com
+  - DOMAIN-KEYWORD,generativelanguage.googleapis.com
   - IP-CIDR,24.199.123.28/32
   - IP-CIDR,64.23.132.171/32
   - IP-ASN,20473
